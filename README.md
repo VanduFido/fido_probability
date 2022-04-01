@@ -1,4 +1,9 @@
 # fido_probability
-# python module for statistival calculations for Gaussian Distributions and Genral Distributions.
+It is a python package intended to make it easier to execute analysis of General distributions and Gaussian Distributions.
 
-# to use, 'pip install fido-probability'
+This resource is open source, uploaded on pypi in 2020 
+https://pypi.org/project/fido-probability/#files 
+
+resource can be implemented using:
+#pip install fido-probability
+It is a python package intended to make it easier to execute analysis of General distributions and Gaussian Distributions. 
